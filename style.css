@@ -1,0 +1,33 @@
+.btn-primary {
+  background-color: #6d75f5 !important;
+}
+.mid {
+  background-color: #6d75f5 !important;
+  text-align: center !important;
+  margin-left: 290px !important;
+}
+@media (min-width: 1200px) {
+  .container-md {
+    width: 1200px !important;
+  }
+}
+.mid1 {
+  text-align: center !important;
+  margin-left: 290px !important;
+}
+.cardb {
+  padding: 10px 20px;
+  font-size: 20px;
+  border-radius: 10px;
+  width: 50%;
+}
+.cardb1 {
+  background-color: #43d7b5 !important;
+  margin-top: 15px !important;
+}
+.c1{
+  border: 1px solid #3E7DC0 !important;
+}
+.foo {
+  background-color: #122960 !important;
+}
